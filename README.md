@@ -340,7 +340,7 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://master--harmonious-travesseiro-731d3e.netlify.app/)
+[[![Netlify Status](https://api.netlify.com/api/v1/badges/b5a259e0-6f3b-4c5b-8a39-886eef2f1c28/deploy-status)](https://app.netlify.com/sites/harmonious-travesseiro-731d3e/deploys)](https:master--harmonious-travesseiro-731d3e.netlify.app/)
 
 ## Acknowledgments 🎁
 
